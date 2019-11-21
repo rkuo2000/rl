@@ -1,5 +1,5 @@
 # Reinforcement Learning
-###Atari Learning Environment
+**Atari Learning Environment**<br />
 `$pip install gym` <br />
 
 `$pip install atari-py` *(this should install a correct binary version for your OS)* <br />
