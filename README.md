@@ -9,8 +9,8 @@
 `$python gym-atari.py` *(modify gym-atari.py to select different atari game)*<br />
 
 **Gym-Cartpole**<br />
-Basic : intro1.py, intro2.py intro3.py intro4.py
-Advanced : 
+Basic : intro1.py, intro2.py intro3.py intro4.py <br />
+Advanced : <br />
 1. random_action.py (random-action)
 2. hand_made_policy.py (hand-pick policy)
 3. qlearning.py (Q value table)
