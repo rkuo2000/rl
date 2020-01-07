@@ -10,7 +10,7 @@
 
 ## Gym-Cartpole
 ### Basic
-* Basic : intro1.py, intro2.py intro3.py intro4.py <br />
+* intro1.py, intro2.py intro3.py intro4.py *(Basic)*
 * random_action.py *(random-action)*
 * hand_made_policy.py *(hand-pick policy)*
 * qlearning.py *(Q value table)*
